@@ -14,17 +14,36 @@
 
 */
 
+/*
 body {
   min-height: 2000px;
 }
+*/
 
 .navbar-static-top {
-  margin-bottom: 19px;
+  margin-bottom: 0px;
 }
 
 .menu-entry {
-	background-color: grey;
+	background-color: #CCCCCC;
+    min-height: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+footer {
+    min-height: 20px;
+}
+
+
+#navbar > ul li a {
+    text-align: center;
+}
+
+section {
+  margin-top: 10px;
+  padding: 10px 10px 10px 10px;
+}
+
 
 
 /*
