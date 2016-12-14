@@ -4,3 +4,8 @@
 
 browser-sync start --server --directory --files "*"
 
+browser-sync {browser: "google chrome"} start --server --directory --files "**/*"
+
+
+
+
